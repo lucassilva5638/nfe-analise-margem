@@ -1,4 +1,4 @@
-# Análise de margem a partir de XMLs de NF-e
+# Da nota fiscal à margem: DRE e curva ABC automáticas a partir de XMLs de NF-e
 
 Script em Python que lê um lote de XMLs de NF-e e monta sozinho um relatório gerencial em Excel: **DRE mensal, margem por produto, curva ABC e checagem de qualidade dos dados**.
 
@@ -53,4 +53,4 @@ Python · pandas · openpyxl · xml.etree
 
 ## Autor
 
-Lucas — analista fiscal migrando para Controladoria/FP&A. Projeto de portfólio.
+Lucas — analista fiscal com foco em finanças e FP&A. Projeto de portfólio.
